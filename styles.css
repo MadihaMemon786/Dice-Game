@@ -1,0 +1,75 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #00203FFF;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Times New Roman', serif;
+  text-shadow: 5px 0 #00343d;
+  font-size: 8rem;
+  color: #ADEFD1FF;
+}
+
+h2 {
+  color: #ADEFD1FF;
+  font-family: Helvetica, sans-serif;
+  font-size: 3rem;
+}
+
+p {
+  font-size: 2rem;
+  color: #ADEFD1FF;
+  font-family: Helvetica, sans-serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 10%;
+  font-size: 1rem;
+  color: #ADEFD1FF;
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+
+}
+
+hr {
+  visibility: hidden;
+}
+
+button {
+  font-size: 1.5rem;
+  background-color: #0b2f77 ;
+  color: #ADEFD1FF;
+  cursor: pointer;
+
+  
+  flex-direction: column;
+  align-items: center;
+  padding: 6px 14px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+  border-radius: 6px;
+  border: none;
+
+
+  box-shadow: 0px 0.5px 1px rgba(0, 0, 0, 0.1), inset 0px 0.5px 0.5px rgba(255, 255, 255, 0.5), 0px 0px 0px 0.5px rgba(0, 0, 0, 0.12);
+  box-shadow: inset 0px 0.8px 0px -0.25px rgba(255, 255, 255, 0.2), 0px 0.5px 1px rgba(0, 0, 0, 0.1), 0px 0px 0px 3.5px rgba(39, 40, 58, 0.5);
+  
+}
+
+
+
